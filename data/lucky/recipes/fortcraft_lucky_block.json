@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "#": {
+            "item": "minecraft:white_wool"
+        },
+		    "A": {
+            "item": "minecraft:yellow_wool"
+        },
+        "L": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "pattern": [
+        "A#A",
+        "#L#",
+        "A#A"
+    ],
+    "result": {
+        "item": "lucky:fortcraft_lucky_block"
+    }
+}
