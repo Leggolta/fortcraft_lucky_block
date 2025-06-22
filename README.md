@@ -7,4 +7,7 @@ lucky block project for fortcraft minigame for minecraft version 1.20.1
 
 This add on was made for [Forge version 47.4.0](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) using [alexsocha](https://github.com/alexsocha)'s [Lucky block v13.0](https://www.curseforge.com/minecraft/mc-mods/lucky-block/files/4817267), [Vic's Point Blank v1.9.6](https://www.curseforge.com/minecraft/mc-mods/vics-point-blank/files/6012485), [Vic's Point Blank - Trauma v0.7](https://www.curseforge.com/minecraft/customization/vics-point-blank-trauma/files/6471350), [Red Dead Weaponry v1.7](https://www.curseforge.com/minecraft/customization/red-dead-weaponry/files/6024417) and [Modern Conflict: Revamped v0.9.5](https://www.curseforge.com/minecraft/customization/modern-conflict-rearmed/files/6560829) with relative dependencies.
 
-To install this add-on first start the game with Lucky block mod installed, then opening the game's folder drag and drop the add-on in the `.minecraft/addons/lucky/` folder.
+To install this add-on first start the game with Lucky block mod installed, then opening the game's folder drag and drop the zipped file in the `.minecraft/addons/lucky/` folder.
+
+>[!WARNING]
+>you don't need to unzip the file for it to work
