@@ -1,0 +1,1 @@
+block_id=fortcraft_lucky_block

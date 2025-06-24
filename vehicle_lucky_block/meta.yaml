@@ -1,0 +1,11 @@
+metafileVersion: 2
+projectName: "fortcraft-lucky-block-java"
+version: "1.19.3-2.0"
+dependencies:
+  "lucky-block":
+    minInclusive: "1.0"
+  "minecraft":
+    minInclusive: "1.9.3"
+    maxExclusive: "1.10"
+revision: "c9a3e27"
+datetime: "2023-02-05 07:47:17"
