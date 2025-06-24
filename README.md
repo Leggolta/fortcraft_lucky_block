@@ -10,4 +10,4 @@ This add-on was made needs [Forge version 47.4.0](https://files.minecraftforge.n
 To install this add-on first start the game with Lucky block mod installed, then opening the game's folder extract the zipped file in the `.minecraft/addons/lucky/` folder.
 
 >[!WARNING]
->just put the jar files you find in the zip without other container folders
+>just put the zip files you find in the downloaded zip folder without extracting them
