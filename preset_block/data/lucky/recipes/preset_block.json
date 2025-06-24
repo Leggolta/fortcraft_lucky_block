@@ -8,7 +8,7 @@
             "item": "minecraft:yellow_wool"
         },
         "L": {
-            "item": "minecraft:emerald"
+            "item": "minecraft:dirt"
         }
     },
     "pattern": [
@@ -17,6 +17,6 @@
         "A#A"
     ],
     "result": {
-        "item": "lucky:vehicle_lucky_block"
+        "item": "lucky:preset_block"
     }
 }
