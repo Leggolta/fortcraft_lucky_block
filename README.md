@@ -1,5 +1,5 @@
 # Fortcraft Lucky Block
-<img src="assets/lucky/textures/block/fortcraft_lucky_block.png" alt="Logo" width="50" height="50">
+<img src="fortcraft_lucky_block/assets/lucky/textures/block/fortcraft_lucky_block.png" alt="Logo" width="50" height="50">
 
 lucky block project for fortcraft minigame for minecraft version 1.20.1
 
