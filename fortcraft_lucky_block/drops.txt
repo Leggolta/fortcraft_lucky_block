@@ -285,7 +285,11 @@ group(ID=pointblank:a9_rpg7;ID=pointblank:kroc_rpg7_rocket,amount=3)@luck=1
 
 / ARMORS
 
-group(ID=;ID=;ID=;ID=)@luck=0
+group(ID=lrarmor:sniper_helmet;ID=lrarmor:sniper_chestplate;ID=lrarmor:sniper_leggings;ID=lrarmor:sniper_boots)@luck=0
+group(ID=lrarmor:scout_helmet;ID=lrarmor:scout_chestplate;ID=lrarmor:scout_leggings;ID=lrarmor:scout_boots)@luck=0
+group(ID=lrarmor:medical_helmet;ID=lrarmor:medical_chestplate;ID=lrarmor:medical_leggings;ID=lrarmor:medical_boots)@luck=1
+group(ID=lrarmor:attacker_helmet;ID=lrarmor:attacker_chestplate;ID=lrarmor:attacker_leggings;ID=lrarmor:attacker_boots)@luck=1
+group(ID=lrarmor:defender_helmet;ID=lrarmor:defender_chestplate;ID=lrarmor:defender_leggings;ID=lrarmor:defender_boots)@luck=2
 
 / HEALS
 

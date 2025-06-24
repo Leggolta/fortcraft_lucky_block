@@ -1,0 +1,4 @@
+group(ID=lrarmor:chemical_protective_helmet;ID=lrarmor:chemical_protective_chestplate;ID=lrarmor:chemical_protective_leggings;ID=lrarmor:chemical_protective_boots;ID=minecraft:netherite_pickaxe;hangglider:hang_glider;grapplemod:grapplinghook;minecraft:yellow_wool,amount=64)@luck=0
+group(ID=lrarmor:fbi_helmet;ID=lrarmor:fbi_chestplate;ID=lrarmor:fbi_leggings;ID=lrarmor:fbi_boots;ID=minecraft:netherite_pickaxe;hangglider:hang_glider;grapplemod:grapplinghook;minecraft:lime_wool,amount=64)@luck=0
+group(ID=lrarmor:atf_helmet;ID=lrarmor:atf_chestplate;ID=lrarmor:atf_leggings;ID=lrarmor:atf_boots;ID=minecraft:netherite_pickaxe;hangglider:hang_glider;grapplemod:grapplinghook;minecraft:cyan_wool,amount=64)@luck=0
+group(ID=lrarmor:irs_helmet;ID=lrarmor:irs_chestplate;ID=lrarmor:irs_leggings;ID=lrarmor:irs_boots;ID=minecraft:netherite_pickaxe;hangglider:hang_glider;grapplemod:grapplinghook;minecraft:white_wool,amount=64)@luck=0
