@@ -11,3 +11,10 @@ To install this add-on first start the game with Lucky block mod installed, then
 
 >[!WARNING]
 >just put the zip files you find in the downloaded zip folder without extracting them
+
+## How to use
+
+This mod adds 3 new blocks: 
+- Fortcraft lucky block: drops a random weapon with ammo
+- Vehicle lucky block: spawns a random vehicle
+- Preset block: drops a random starting set from 4 presets, including different armour and wool blocks, along with a pickaxe, food, a grappling hook and a glider to start the game more easily
