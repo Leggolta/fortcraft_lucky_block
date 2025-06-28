@@ -3,6 +3,8 @@
 [Forge version 47.4.0](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 ---
 - [GeckoLib v4.7.2](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/6658942)
+- [Marbled's Core v1.0.3.0](https://www.curseforge.com/minecraft/mc-mods/marbleds-core/files/6058648)
+- [Curios API v5.14.1](https://www.curseforge.com/minecraft/mc-mods/curios/files/6418456)
 - [PuzzlesLib v8.1.32](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/6387081)
 - [Essential v1.3.8.2](https://www.curseforge.com/minecraft/mc-mods/essential-mod/files/6661545)
 - [Lucky block v13.0](https://www.curseforge.com/minecraft/mc-mods/lucky-block/files/4817267)
