@@ -17,7 +17,6 @@
 - [LesRaisins Armor v0.1.4.3](https://www.curseforge.com/minecraft/mc-mods/lesraisins-armor/files/5686783)
 - [Superb Warfare v0.8.2](https://www.curseforge.com/minecraft/mc-mods/superb-warfare/files/6633653)
 - [ParCool! v3.4.0.7](https://www.curseforge.com/minecraft/mc-mods/parcool/files/6652972)
-- [First-person Model v2.4.9](https://www.curseforge.com/minecraft/mc-mods/first-person-model/files/6356575)
 - [Automobility vBeta0.4.2](https://www.curseforge.com/minecraft/mc-mods/automobility/files/4613497)
 - [Marbled's Arsenal v2.3.0.3](https://www.curseforge.com/minecraft/mc-mods/marbleds-arsenal/files/6606600)
 
