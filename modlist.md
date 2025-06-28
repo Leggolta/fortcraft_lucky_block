@@ -5,6 +5,7 @@
 - [GeckoLib v4.7.2](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/6658942)
 - [Marbled's Core v1.0.3.0](https://www.curseforge.com/minecraft/mc-mods/marbleds-core/files/6058648)
 - [Curios API v5.14.1](https://www.curseforge.com/minecraft/mc-mods/curios/files/6418456)
+- [Cloth Config v11.1.136](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/5729105)
 - [PuzzlesLib v8.1.32](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/6387081)
 - [Essential v1.3.8.2](https://www.curseforge.com/minecraft/mc-mods/essential-mod/files/6661545)
 - [Lucky block v13.0](https://www.curseforge.com/minecraft/mc-mods/lucky-block/files/4817267)
@@ -26,5 +27,4 @@
 - [ImmediatelyFast v1.5.0](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/6312293)
 - [FerriteCore v6.0.1](https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/4810975)
 - [Embeddium v0.3.31](https://www.curseforge.com/minecraft/mc-mods/embeddium/files/5681725)
-- [Cloth Config v11.1.136](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/5729105)
 - [Radium v0.12.4](https://www.curseforge.com/minecraft/mc-mods/radium-reforged/files/5706069)
