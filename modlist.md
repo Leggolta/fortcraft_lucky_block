@@ -5,7 +5,7 @@
 - [GeckoLib v4.7.2](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/6658942)
 - [PuzzlesLib v8.1.32](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/6387081)
 - [Essential v1.3.8.2](https://www.curseforge.com/minecraft/mc-mods/essential-mod/files/6661545)
-- [Lucky block v13.0](https://www.curseforge.com/minecraft/mc-mods/lucky-block/files/481726)
+- [Lucky block v13.0](https://www.curseforge.com/minecraft/mc-mods/lucky-block/files/4817267)
 - [Vic's Point Blank v1.9.6](https://www.curseforge.com/minecraft/mc-mods/vics-point-blank/files/6012485)
 - [Vic's Point Blank - Trauma v0.7](https://www.curseforge.com/minecraft/customization/vics-point-blank-trauma/files/6471350)
 - [Red Dead Weaponry v1.7](https://www.curseforge.com/minecraft/customization/red-dead-weaponry/files/6024417)
